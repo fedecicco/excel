@@ -1,6 +1,6 @@
 ### excel
 ## file trades_on_exchanges
-# Analisi delle Operazioni di Trading
+ANALISI OPERAZIONI DI TRADING
 Questo progetto trasforma un semplice foglio di calcolo in uno strumento avanzato per l'analisi delle performance finanziarie. I dati rappresentano le operazioni di trading svolte dal cliente principale, Bob, dal 1° gennaio 2021. L'obiettivo è fornire insights strategici e migliorare la gestione delle operazioni di trading tramite visualizzazioni interattive e analisi automatizzate.
 
 Le colonne presenti nel foglio sono:
