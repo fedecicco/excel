@@ -1,5 +1,5 @@
 Struttura del Database
-Il database (che puoi scaricare da qui) è costituito dalle seguenti tabelle:
+Il database è costituito dalle seguenti tabelle:
 
 Cliente: contiene informazioni personali sui clienti (ad esempio, età).
 Conto: contiene informazioni sui conti posseduti dai clienti.
